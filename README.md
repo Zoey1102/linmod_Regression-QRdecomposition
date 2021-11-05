@@ -1,5 +1,6 @@
 # linmod_Regression-QRdecomposition
-Functions to fitting linear regression using QR decomposition approach
+Functions to fitting linear regression using QR decomposition approach.
+See code file P3s2258945.R
 
 ### The aim of the project
 Write your own functions for fitting linear models (using the QR decomposition approach), printing a simple summary of the fit, plotting a default residual plot and predicting the expected response, given new values of the predictors. The educational aim of the practical is to deepen your understanding of linear models and of classes and matrix computation in R.
